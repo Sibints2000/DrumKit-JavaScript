@@ -1,2 +1,2 @@
 # DrumKit-JavaScript
-Drum Kit website Using JavaScript.
+Drum Kit website Using JavaScript, HTML, CSS
